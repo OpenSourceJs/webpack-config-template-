@@ -1,0 +1,29 @@
+{
+  "name": "webpack-config-template",
+  "version": "1.0.0",
+  "description": "This is a webpack configuration templete ",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenSourceJs/webpack-config-template-.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Mohamed Gassama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenSourceJs/webpack-config-template-/issues"
+  },
+  "homepage": "https://github.com/OpenSourceJs/webpack-config-template-#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "webpack": "^3.6.0"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
